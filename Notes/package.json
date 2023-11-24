@@ -1,0 +1,27 @@
+{
+  "name": "notes",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:db": "npx json-server db.json --port 5001",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "chance": "^1.1.11",
+    "preact": "^10.19.1",
+    "react-router-dom": "^6.19.0",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.6.0",
+    "@tailwindcss/typography": "^0.5.10",
+    "autoprefixer": "^10.4.16",
+    "json-server": "^0.17.4",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^5.0.0"
+  }
+}

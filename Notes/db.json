@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": "808bc80f-09b3-54d7-9053-b74b1ab1adae",
+      "email": "qw@gmail.com",
+      "password": "12345678Qw",
+      "createdAt": "24.11.2023, 11:05:18"
+    },
+    {
+      "id": "bab5d5fd-b10c-5805-8750-b49080f2df1a",
+      "email": "qwqw@gmail.com",
+      "password": "12345678Qw",
+      "createdAt": "24.11.2023, 12:45:49"
+    },
+    {
+      "id": "e30abf47-a5c5-569e-8a1f-8898c4a0684d",
+      "email": "rdr@gmail.com",
+      "password": "12345678Qw",
+      "createdAt": "24.11.2023, 23:08:32"
+    },
+    {
+      "id": "5737eb88-9714-595b-8163-763dafebae99",
+      "email": "qweq@mail.com",
+      "password": "12345678Qw",
+      "createdAt": "24.11.2023, 23:10:18"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1700851194569,
+      "authorId": "808bc80f-09b3-54d7-9053-b74b1ab1adae",
+      "title": "ewerqe",
+      "text": "jqweiuiwuiq",
+      "createdAt": "24.11.2023"
+    },
+    {
+      "id": 1700851422822,
+      "authorId": "808bc80f-09b3-54d7-9053-b74b1ab1adae",
+      "title": "0000000000000000",
+      "text": "1г43щ49817410",
+      "createdAt": "24.11.2023"
+    },
+    {
+      "id": 1700853298167,
+      "authorId": "808bc80f-09b3-54d7-9053-b74b1ab1adae",
+      "title": "йуйу",
+      "text": "воцрудцлй",
+      "createdAt": "24.11.2023"
+    },
+    {
+      "id": 1700854282380,
+      "authorId": "808bc80f-09b3-54d7-9053-b74b1ab1adae",
+      "title": "ФРЙРФЙГ",
+      "text": "ФРЙЦРГ2Г",
+      "createdAt": "24.11.2023"
+    },
+    {
+      "id": 1700855174320,
+      "authorId": "bab5d5fd-b10c-5805-8750-b49080f2df1a",
+      "title": "dhuqueu",
+      "text": "ehqheu2k1kedb1",
+      "createdAt": "24.11.2023"
+    }
+  ]
+}
